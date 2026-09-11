@@ -1,1 +1,1 @@
-print("Hello Git and WeldOS")
+print("WeldOS development branch")
